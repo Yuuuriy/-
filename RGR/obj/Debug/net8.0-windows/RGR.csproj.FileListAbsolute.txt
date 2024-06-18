@@ -1,0 +1,16 @@
+D:\Нова папка\Lab2\bin\Debug\net8.0-windows\RGR.exe
+D:\Нова папка\Lab2\bin\Debug\net8.0-windows\RGR.deps.json
+D:\Нова папка\Lab2\bin\Debug\net8.0-windows\RGR.runtimeconfig.json
+D:\Нова папка\Lab2\bin\Debug\net8.0-windows\RGR.dll
+D:\Нова папка\Lab2\bin\Debug\net8.0-windows\RGR.pdb
+D:\Нова папка\Lab2\obj\Debug\net8.0-windows\Lab2.Form1.resources
+D:\Нова папка\Lab2\obj\Debug\net8.0-windows\RGR.csproj.GenerateResource.cache
+D:\Нова папка\Lab2\obj\Debug\net8.0-windows\RGR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Нова папка\Lab2\obj\Debug\net8.0-windows\RGR.AssemblyInfoInputs.cache
+D:\Нова папка\Lab2\obj\Debug\net8.0-windows\RGR.AssemblyInfo.cs
+D:\Нова папка\Lab2\obj\Debug\net8.0-windows\RGR.csproj.CoreCompileInputs.cache
+D:\Нова папка\Lab2\obj\Debug\net8.0-windows\RGR.dll
+D:\Нова папка\Lab2\obj\Debug\net8.0-windows\refint\RGR.dll
+D:\Нова папка\Lab2\obj\Debug\net8.0-windows\RGR.pdb
+D:\Нова папка\Lab2\obj\Debug\net8.0-windows\RGR.genruntimeconfig.cache
+D:\Нова папка\Lab2\obj\Debug\net8.0-windows\ref\RGR.dll
